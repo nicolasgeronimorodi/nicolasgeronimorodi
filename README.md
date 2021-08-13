@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning Django and Flask on Python. Also, I´m learning to code with the help of the Telegram BOT API, as I´m developing a simple yet
     resourceful Telegram bot.
 
-- 📫 How to reach me: 
-*Email address: nicolasgeronimorodi@gmail.com
-*Linkedin: linkedin.com/in/nicolasgeronimorodi        
+- 📫 How to reach me: <br>
+
+    📩*Email address: nicolasgeronimorodi@gmail.com <br>
+    📜*Linkedin: <a href="url"> linkedin.com/in/nicolasgeronimorodi  </a>      
 
 <!---
 nicolasgeronimorodi/nicolasgeronimorodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
