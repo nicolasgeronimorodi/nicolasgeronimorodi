@@ -6,7 +6,7 @@
 - 📫 How to reach me: <br>
 
     📩*Email address: nicolasgeronimorodi@gmail.com <br>
-    📜*Linkedin: <a href="url"> linkedin.com/in/nicolasgeronimorodi  </a>      
+ 
 
 <!---
 nicolasgeronimorodi/nicolasgeronimorodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
