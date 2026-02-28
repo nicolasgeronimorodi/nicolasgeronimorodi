@@ -10,9 +10,13 @@ I have also worked in an academic setting with Java, specifically in creating RE
 Currently deepening my knowledge in microservices architecture, CQRS and clean/vertical slice design patterns.
 
 **Programming languages:** C# · TypeScript · Java
+
 **Backend:** C# · .NET · ASP.NET Core · Entity Framework · Java Spring Boot · Node.js
-**Frontend:** Angular · React · Next.js 
+
+**Frontend:** Angular · React · Next.js
+
 **Databases:** SQL Server · MySQL ·  MongoDB · Supabase  
+
 **Tooling:** Docker · xUnit · Moq
 
 UTN Córdoba — English C1 (EF SET)
